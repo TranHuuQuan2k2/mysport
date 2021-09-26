@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Giỏ giày &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/gio-giay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranhuuquan2k2.github.io/mysport</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 14:23:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giỏ giày thể thao Nike xanh dương</title>
+		<link>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/gio-giay-the-thao-nike-xanh-duong/</link>
+					<comments>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/gio-giay-the-thao-nike-xanh-duong/#respond</comments>
+		
+		<dc:creator><![CDATA[Tran Huu Quan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:21:16 +0000</pubDate>
+				<guid isPermaLink="false">https://tranhuuquan2k2.github.io/mysport/?post_type=product&#038;p=245</guid>
+
+					<description><![CDATA[Xuất xứ: Việt Nam (Hãng chính hãng của Nike – xuất khẩu)
+
+Chất liệu: Polyester
+
+Kích thước: Ngang 20, dọc 34, rộng 15 (cm)
+
+Sản phẩm giỏ giày bóng đá thường được sử dụng để bỏ dụng cụ khi đi đá banh, nhiều anh em có thể sử dụng để bỏ <strong>đồ tập GYM</strong> hoặc mang theo để đựng giày khi đi du lịch cũng rất hợp lý.]]></description>
+										<content:encoded><![CDATA[Xuất xứ: Việt Nam (Hãng chính hãng của Nike – xuất khẩu)
+
+Chất liệu: Polyester
+
+Kích thước: Ngang 20, dọc 34, rộng 15 (cm)
+
+Sản phẩm giỏ giày bóng đá thường được sử dụng để bỏ dụng cụ khi đi đá banh, nhiều anh em có thể sử dụng để bỏ <strong>đồ tập GYM</strong> hoặc mang theo để đựng giày khi đi du lịch cũng rất hợp lý.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/gio-giay-the-thao-nike-xanh-duong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

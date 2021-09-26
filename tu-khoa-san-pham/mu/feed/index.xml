@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MU &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/mu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranhuuquan2k2.github.io/mysport</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 15:12:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Áo MU sân khách</title>
+		<link>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/ao-mu-san-khach/</link>
+					<comments>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/ao-mu-san-khach/#respond</comments>
+		
+		<dc:creator><![CDATA[Tran Huu Quan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:07:42 +0000</pubDate>
+				<guid isPermaLink="false">https://tranhuuquan2k2.github.io/mysport/?post_type=product&#038;p=233</guid>
+
+					<description><![CDATA[– Đây là mẫu quần áo câu lạc bộ đang được bán nhiều nhất trên thị trường, thường được may bằng vải thun lạnh.
+
+– Ưu điểm: Giá rẻ, mặc cũng khá bền.
+
+– Nhược điểm: Mặc nóng và thấm hút mồ hôi không tốt lắm. Chỉ giống khoảng 90% so với hàng chính hãng.]]></description>
+										<content:encoded><![CDATA[– Đây là mẫu quần áo câu lạc bộ đang được bán nhiều nhất trên thị trường, thường được may bằng vải thun lạnh.
+
+– Ưu điểm: Giá rẻ, mặc cũng khá bền.
+
+– Nhược điểm: Mặc nóng và thấm hút mồ hôi không tốt lắm. Chỉ giống khoảng 90% so với hàng chính hãng.]]></content:encoded>
+					
+					<wfw:commentRss>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/ao-mu-san-khach/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Áo MU</title>
+		<link>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/ao-mu/</link>
+					<comments>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/ao-mu/#respond</comments>
+		
+		<dc:creator><![CDATA[Tran Huu Quan]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 13:12:48 +0000</pubDate>
+				<guid isPermaLink="false">https://tranhuuquan2k2.github.io/mysport/?post_type=product&#038;p=184</guid>
+
+					<description><![CDATA[– Đây là mẫu quần áo câu lạc bộ đang được bán nhiều nhất trên thị trường, thường được may bằng vải thun lạnh. – Ưu điểm: Giá rẻ, mặc cũng khá bền. – Nhược điểm: Mặc nóng và thấm hút mồ hôi không tốt lắm. Chỉ giống khoảng 90% so với hàng chính hãng.]]></description>
+										<content:encoded><![CDATA[<p>– Đây là mẫu quần áo câu lạc bộ đang được bán nhiều nhất trên thị trường, thường được may bằng vải thun lạnh.</p>
+<p>– Ưu điểm: Giá rẻ, mặc cũng khá bền.</p>
+<p>– Nhược điểm: Mặc nóng và thấm hút mồ hôi không tốt lắm. Chỉ giống khoảng 90% so với hàng chính hãng.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://tranhuuquan2k2.github.io/mysport/sản%20phẩm/ao-mu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
